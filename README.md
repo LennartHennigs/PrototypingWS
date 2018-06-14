@@ -38,7 +38,7 @@ https://www.raspberrypi.org/documentation/configuration/wireless/wireless-cli.md
 
 Type `sudo reboot -h now` into the console
 
-##Node RED
+## Node RED
 
 ### how to access node-red
 - Node-RED: http://protopi[nn].local:1880 (enter your pi's number)
