@@ -25,7 +25,6 @@
 
 ![img](Raspberry-Pi-Zero-Ethernet-Gadget-Pi-Zero-Plugged-Into-Micro-USB-Port.jpg)
 
-
 - Mac: http://www.circuitbasics.com/raspberry-pi-zero-ethernet-gadget/
 - Windows: https://www.thepolyglotdeveloper.com/2016/06/connect-raspberry-pi-zero-usb-cable-ssh/
 
@@ -38,3 +37,6 @@ https://www.raspberrypi.org/documentation/configuration/wireless/wireless-cli.md
 ### Restart the Pi
 
 Type `sudo reboot -h now` into the console
+
+## how to access node-red
+- Node-RED: http://protopi[nn].local (enter your pi's number)
