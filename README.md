@@ -5,7 +5,7 @@
 - [Pi Operating System](https://www.raspberrypi.org/downloads/raspbian/)
 - [Pi Zero Overview](https://learn.sparkfun.com/tutorials/getting-started-with-the-raspberry-pi-zero-wireless/all)
 - [MagPi Magazine](https://www.raspberrypi.org/magpi/issues/)
-
+- [Node-Red](https://nodered.org/)
 - [GPIO Pins Overview](https://pinout.xyz/)
 
 ## Tools
@@ -38,5 +38,18 @@ https://www.raspberrypi.org/documentation/configuration/wireless/wireless-cli.md
 
 Type `sudo reboot -h now` into the console
 
-## how to access node-red
-- Node-RED: http://protopi[nn].local (enter your pi's number)
+##Node RED
+
+### how to access node-red
+- Node-RED: http://protopi[nn].local:1880 (enter your pi's number)
+- Login? See above.
+
+### Introduction
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/3AR432bguOY/0.jpg)](http://www.youtube.com/watch?v=3AR432bguOY)
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/V0SmNcIYCtQ/0.jpg)](http://www.youtube.com/watch?v=V0SmNcIYCtQ)
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/bovIZtgL68E/0.jpg)](http://www.youtube.com/watch?v=bovIZtgL68E)
+
+
+
+
