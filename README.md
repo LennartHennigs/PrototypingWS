@@ -79,8 +79,15 @@ The resulting total cost is around 30€.
 - [Pi Documentation](https://www.raspberrypi.org/documentation/)
 - [Pi Operating System](https://www.raspberrypi.org/downloads/raspbian/)
 - [Pi Zero Overview](https://learn.sparkfun.com/tutorials/getting-started-with-the-raspberry-pi-zero-wireless/all)
-- [MagPi Magazine](https://www.raspberrypi.org/magpi/issues/)
 - [Node-Red](https://nodered.org/)
+- [MagPi Magazine](https://www.raspberrypi.org/magpi/issues/)
+  - [Raspberry Pi Beginners Book](https://www.raspberrypi.org/magpi/issues/beginners-1/)
+  - [10 Raspberry Pi Projects You Must Make](https://www.raspberrypi.org/magpi/issues/61/)
+  - [Pi Zero Projects](https://www.raspberrypi.org/magpi/issues/42/)
+  - [Raspberry Pi Projects Book - Volume 2](https://www.raspberrypi.org/magpi/issues/projects-2/)
+  - [Conquer the Command line](https://www.raspberrypi.org/magpi/issues/essentials-bash-vol1/)
+- [Make: Magazin - Node Red Intro](https://www.heise.de/select/make/2016/14/1481475895404875) (German)
+
 - [GPIO Pins Overview](https://pinout.xyz/)
 
 
