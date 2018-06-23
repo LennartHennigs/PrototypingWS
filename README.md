@@ -56,12 +56,18 @@ The resulting total cost is around 30€.
 1. Connect you Pi to your computer  ![img](pi_usb.jpg)    *Note: You need a "good" USB cable, one that you can sync your phone with*  
 
 2. Follow the instructions for [Mac](https://www.thepolyglotdeveloper.com/2016/06/connect-raspberry-pi-zero-usb-cable-ssh/) or [Windows](http://www.circuitbasics.com/raspberry-pi-zero-ethernet-gadget/)  
-  *Note: They also teach you how to use the Terminal, so give it a read*
+  *Note: They also teach you how to use the Terminal, so give it a read*  
+  
+3. [Learn some additional commands](https://randomnerdtutorials.com/learning-basic-linux-commands-raspberry-pi-cheat-sheet/) for the command line
+
+### Share your Internet Connection with the Pi (through USB)
+- Follow these steps for the [Mac](https://www.mactip.net/share-internet-connection-mac/) and share the connection for the "RNDIS/Ethernet Gadget" (thats your the name of your Pi)
+- For [Windows](https://www.wired.com/2015/07/share-not-share-wi-fi-windows-10/) follow the steps described [here](https://www.wired.com/2015/07/share-not-share-wi-fi-windows-10/)
 
 ### Add WiFi Credentials to the Pi
 - [Follow](https://www.raspberrypi.org/documentation/configuration/wireless/wireless-cli.md) these steps
-- Close the editor (CTRL + x)
-- restart the Pi. Type `sudo reboot -h now` in the console
+- Close the editor (CTRL + x and confirm with "y")
+- To restart the Pi, type `sudo reboot -h now` in the console
 
 ### Is your Pi Online?
 - You can either use your pi's name (`protopi[nn].local`) or its IP address
@@ -72,7 +78,7 @@ The resulting total cost is around 30€.
 
 ### Access to Node-RED
 - Enter `http://protopi[nn].local:1880` in the browser (Firefox or Chrome, please)
-
+- You should find the *Pushover* flow, please remove my credentials and start tinkering
 
 ## Links and Resources
 ### Links
