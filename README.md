@@ -31,8 +31,8 @@ In addition, you can find some basic information to get you started below.
 - [5mm neopixel LED](https://www.amazon.de/NEOPIXEL-THRU-DIFFUSE-ADAFRUIT-INDUSTRIES/dp/B01186GO4A/) (or a [clone](https://hackaday.com/2014/06/25/here-come-the-rgb-led-clones/), e.g. WS8212, WS8211, PD9823, ...)
 
 
-Above are just sample links, I'd try to order most material from China to reduce the cost (with the exception of the Pi). 
-The resulting total cost is around 30€. 
+*Note: Above are just sample links, I'd try to order most material from China to reduce the cost (with the exception of the Pi). 
+The resulting total cost is around 30€.*
 
 ### Software
 - SD Card Burner: [Etcher](https://etcher.io/) or [ApplePi Baker](https://www.tweaking4all.com/software/macosx-software/macosx-apple-pi-baker/) for Mac
